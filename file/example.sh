@@ -35,7 +35,7 @@ cat a_config.txt
 cat b_config.txt
 
 # console :
-# this is RC version
+# this is rc version
 echo ""
 echo "- (example) if condition -"
 RC_FORMAT="^v[0-9]+\.[0-9]+\.[0-9]+-rc\.[0-9]+.*"
